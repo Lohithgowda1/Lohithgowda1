@@ -32,6 +32,7 @@
   
 [gmail]: https://mail.google.com/mail/u/1/#inbox
 [linkedin]: https://www.linkedin.com/in/lohith-k-m-614121280
+<br />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lohithgowda1&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
