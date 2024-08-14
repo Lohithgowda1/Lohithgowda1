@@ -12,7 +12,7 @@
 ### Contact Me:
 
 [<img align="left" alt="me | Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
-[<img align="left" alt="me | LinkedIn" width="27"  src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
+[<img align="left" alt="me | LinkedIn" width="27"  src="https://img.icons8.com/color/48/linkedin.png" />]
 <br />
 
 
