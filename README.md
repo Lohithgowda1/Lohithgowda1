@@ -13,7 +13,7 @@
 
 [<img align="left" alt="me | Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
 [<img align="left" alt="me | LinkedIn" width="27"  src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
-
+<br />
 
 
 ### Languages and Tools that I use:
@@ -32,7 +32,7 @@
   
 [gmail]: https://mail.google.com/mail/u/1/#inbox
 [linkedin]: https://www.linkedin.com/in/lohith-k-m-614121280
-<br />
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Lohithgowda1&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
